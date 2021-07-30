@@ -1,4 +1,6 @@
-### [Text Classification with Deep Learning](https://github.com/denyslazarenko/Text-Classification-with-Deep-Learning/blob/master/Script/Thesis/thesis.pdf)
+## [Text Classification with Deep Learning](https://github.com/denyslazarenko/Text-Classification-with-Deep-Learning/blob/master/Script/Thesis/thesis.pdf)
+
+### ![Presentation](https://github.com/denyslazarenko/Text-Classification-with-Deep-Learning/blob/master/Script/Presentation/presentation.pdf)
 
 **ABSTRACT**  
   
@@ -12,12 +14,4 @@ The **aim** of the study is to:
 - study algorithms and methods for text classification;
 - build a software for advertisements classification.
 
-**SUMMARY**  
-Word representation as vectors in the vector space in combination with Deep learning Neural Networks demonstrate high quality classification on textual data. The layers of NN get meaningful information of each class and can be well distinguish one from another. Results show that arhitecture with CNNs can perform nearly the same and in some cases even better than the one with RNNs. CNNs are a right choice to work with textual data with high accuracy on unknown data with appropriate speed.  
-
-![selection_039](https://user-images.githubusercontent.com/13698885/45641871-fb6f7500-bab6-11e8-949b-f0a51d1c5840.jpg)
-
-**Future work:**  
-	- train networks with other optimization algorithms.
-	- make an assemble of NNs  
-	- use different length of words sequences for titles and descriptions  
+Key words: Natural Language Processing, Embeddings, CNN, RNN.
