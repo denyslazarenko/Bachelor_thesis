@@ -18,7 +18,7 @@ scikit-learn==0.18.1
 scipy==0.19.0
 sigopt==2.9.0
 snowballstemmer==1.2.1
-tensorflow==1.1.0
+tensorflow==2.5.1
 tqdm==4.14.0
 keras==2.0.6
 bottle==0.12.13
