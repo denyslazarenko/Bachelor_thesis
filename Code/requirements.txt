@@ -9,7 +9,7 @@ nbconvert==5.1.1
 nbformat==4.3.0
 networkx==1.11
 nltk==3.2.4
-numpy==1.12.1
+numpy==1.22.0
 pandas==0.20.1
 pyemd==0.4.3
 pygoose==0.1.3
